@@ -1,0 +1,30 @@
+_repo: Verena-in-the-Midst-A-Kind-of-a-Story_63551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: https://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Invalids -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Verena in the Midst: A Kind of a Story'
+url: http://www.gutenberg.org/ebooks/63551
